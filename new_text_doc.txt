@@ -1,0 +1,9 @@
+wertgyhujiklo;p
+
+2.New line was changed
+
+ LESSON #2
+
+ 1. What happens when you initialize a repository? Why do you need to do it?
+  When I initialize repository there arrise a new hidden file with name 
+  '.git'. I need to do this for observing changes witch I make on this folder with it's content.
