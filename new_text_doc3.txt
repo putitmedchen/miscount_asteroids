@@ -8,3 +8,7 @@
 	Forks - makes copy from other github repository in our github repository and provides us possibility to make changes on it locally.
 	Clones - makes copy from github repository to our computer.
 	Branches - creates new branch in repository and provide us with posiibility to have different independent versions of source code. And eventually, it also have possibility to merge all this branches in one main branch.
+4.What is the benefit of having a copy of the last known state of the remote stored locally?
+	Seriously, I don't know. Maybe it is a possibillity to see the difference between github files and local files using diff command.
+5.How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+	Without using Git and GitHub I would collaborate using TortoiseSVN. It is much simpler and understandable in differ from GitHub. But I heard about GitHub used for collaboratng people in big projects and I think it is nessesarry use git for such big amount of data.
